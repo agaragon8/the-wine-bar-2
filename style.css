@@ -1,0 +1,77 @@
+#header-div {
+    background-color: black;
+    background-image: url("./Background.jpg");
+    color: black;
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+
+#wine-div {
+    margin: -20%;
+    height: 30%;
+    top: 1%;
+    text-align: center;
+    line-height: 
+}
+
+#wine.bar {
+    height: 300%;
+    width: 5%;
+    border-radius: 50%;
+    text-align: center;   
+}
+
+
+#h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#h2 { 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+   
+}
+
+#h3 {
+    margin-top: -20%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+#h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+
+#h5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    margin: 0%;
+
+}
+
+
+#wine-info-div {
+    text-align: center;
+    margin-top: 3%;
+}
+
+footer {
+    background-color: black;
+    background-image: url("./Background.jpg");
+    color: black;
+    text-align: center;
+    padding-top: 400px;
+    padding-bottom: 400px;
+    margin-top: -15%;
+}
